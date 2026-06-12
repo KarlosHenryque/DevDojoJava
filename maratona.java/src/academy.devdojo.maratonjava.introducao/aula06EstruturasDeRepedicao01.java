@@ -1,6 +1,6 @@
 package academy.devdojo.maratonjava.introducao;
 
-public class aula06EstruturasDeRepedicao01 {
+public class Aula06EstruturasDeRepedicao01 {
     public static void main(String[] args) {
 
 //        While, Do While, for

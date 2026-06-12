@@ -1,6 +1,6 @@
 package academy.devdojo.maratonjava.introducao;
 
-public class aula06EstruturasDeRepedicao04 {
+public class Aula06EstruturasDeRepedicao04 {
     public static void main(String[] args) {
         double valorDoCarro = 2000000;
         double valorMinParcela = 1000;
