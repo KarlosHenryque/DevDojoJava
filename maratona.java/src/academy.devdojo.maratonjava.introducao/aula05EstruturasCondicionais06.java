@@ -1,6 +1,6 @@
 package academy.devdojo.maratonjava.introducao;
 
-public class aula05EstruturasCondicionais06 {
+public class Aula05EstruturasCondicionais06 {
     public static void main(String[] args) {
         int dia = 5;
 

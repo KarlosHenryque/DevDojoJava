@@ -1,6 +1,6 @@
 package academy.devdojo.maratonjava.introducao;
 
-public class aula06EstruturasDeRepedicao03 {
+public class Aula06EstruturasDeRepedicao03 {
     public static void main(String[] args) {
         int valorMax = 50;
         int valorMin = 25;
