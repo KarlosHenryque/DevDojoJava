@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy.devdojo.maratonjava.introducao/Aula07Arrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy.devdojo.maratonjava.introducao/Aula07Arrays02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy.devdojo.maratonjava.introducao/Aula07Arrays03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +38,10 @@
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
+    "Application.Aula06EstruturasDeRepedicao05.executor": "Debug",
+    "Application.Aula07Arrays01.executor": "Run",
+    "Application.Aula07Arrays02.executor": "Run",
+    "Application.Aula07Arrays03.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.aula05EstruturasCondicionais.executor": "Run",
@@ -50,6 +57,7 @@
     "Application.aula06EstruturasDeRepedicao05.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -84,7 +92,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula06EstruturasDeRepedicao05">
+  <component name="RunManager" selected="Application.Aula07Arrays03">
     <configuration name="Aula06EstruturasDeRepedicao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.introducao.Aula06EstruturasDeRepedicao05" />
       <module name="maratona.java" />
@@ -98,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula06EstruturasDeRepedicao02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.introducao.aula06EstruturasDeRepedicao02" />
+    <configuration name="Aula07Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.introducao.Aula07Arrays01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula06EstruturasDeRepedicao03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.introducao.aula06EstruturasDeRepedicao03" />
+    <configuration name="Aula07Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.introducao.Aula07Arrays02" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula06EstruturasDeRepedicao04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.introducao.aula06EstruturasDeRepedicao04" />
+    <configuration name="Aula07Arrays03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.introducao.Aula07Arrays03" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula07Arrays03" />
+        <item itemvalue="Application.Aula07Arrays02" />
+        <item itemvalue="Application.Aula07Arrays01" />
         <item itemvalue="Application.Aula06EstruturasDeRepedicao05" />
         <item itemvalue="Application.aula06EstruturasDeRepedicao05" />
-        <item itemvalue="Application.aula06EstruturasDeRepedicao04" />
-        <item itemvalue="Application.aula06EstruturasDeRepedicao03" />
-        <item itemvalue="Application.aula06EstruturasDeRepedicao02" />
       </list>
     </recent_temporary>
   </component>
