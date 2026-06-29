@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Aintroducaoclasses/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Aintroducaoclasses/teste/Carro01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/teste/CalculadoraTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/teste/CalculadoraTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/teste/CalculadoraTeste03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/teste/EstudanteTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,8 @@
     "Application.Aula08ArraysMuldimensionais01.executor": "Run",
     "Application.Aula08ArraysMuldimensionais02.executor": "Run",
     "Application.CalculadoraTeste01.executor": "Run",
+    "Application.CalculadoraTeste02.executor": "Run",
+    "Application.CalculadoraTeste03.executor": "Run",
     "Application.Carro01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
@@ -97,13 +101,40 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste" />
       <recent name="academy.devdojo.maratonjava.introducao" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculadoraTeste01">
+  <component name="RunManager" selected="Application.EstudanteTest01">
     <configuration name="CalculadoraTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.CalculadoraTeste01" />
+      <module name="maratona.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.CalculadoraTeste02" />
+      <module name="maratona.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.CalculadoraTeste03" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
@@ -129,37 +160,11 @@
       </method>
     </configuration>
     <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Aintroducaoclasses.teste.EstudanteTest01" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.EstudanteTest01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Aintroducaoclasses.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Aintroducaoclasses.teste.EstudanteTest02" />
-      <module name="maratona.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Aintroducaoclasses.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstudanteTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Aintroducaoclasses.teste.EstudanteTest03" />
-      <module name="maratona.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Aintroducaoclasses.teste.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstudanteTest01" />
+        <item itemvalue="Application.CalculadoraTeste03" />
+        <item itemvalue="Application.CalculadoraTeste02" />
         <item itemvalue="Application.CalculadoraTeste01" />
         <item itemvalue="Application.Carro01" />
-        <item itemvalue="Application.EstudanteTest03" />
-        <item itemvalue="Application.EstudanteTest02" />
-        <item itemvalue="Application.EstudanteTest01" />
       </list>
     </recent_temporary>
   </component>
