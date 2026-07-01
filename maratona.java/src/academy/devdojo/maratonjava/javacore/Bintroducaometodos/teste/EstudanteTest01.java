@@ -7,7 +7,7 @@ public class EstudanteTest01 {
     public static void main(String[] args) {
         Estudante estudante01 = new Estudante();
         Estudante estudante02 = new Estudante();
-        ImpressoraEstudante impressora = new ImpressoraEstudante();
+//        ImpressoraEstudante impressora = new ImpressoraEstudante();
 
         estudante01.nome = "Midoriya";
         estudante01.idade = 15;
@@ -17,7 +17,7 @@ public class EstudanteTest01 {
         estudante02.idade = 16;
         estudante02.sexo = 'F';
 
-        impressora.imprime(estudante01);
-        impressora.imprime(estudante02);
+        estudante01.imprime();
+        estudante02.imprime();
     }
 }
