@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Csobrecargametodos/Dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Csobrecargametodos/teste/AnimeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/Dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/teste/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Eblocoinicializacao/domain/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Eblocoinicializacao/teste/AnimeTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/domain/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/teste/CarroTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/Dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/Dominio/Anime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/teste/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/teste/AnimeTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnimeTest01.executor": "Run",
+    "Application.AnimeTeste01.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
@@ -53,6 +56,7 @@
     "Application.CalculadoraTeste03.executor": "Run",
     "Application.CalculadoraTeste04.executor": "Run",
     "Application.Carro01.executor": "Run",
+    "Application.CarroTeste01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
     "Application.EstudanteTest03.executor": "Run",
@@ -114,7 +118,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.academy.devdojo.maratonjava.javacore.Dconstrutores.teste.AnimeTest01">
+  <component name="RunManager" selected="Application.CarroTeste01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Csobrecargametodos.teste.AnimeTest01" />
       <module name="maratona.java" />
@@ -128,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculadoraTeste04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.CalculadoraTeste04" />
+    <configuration name="AnimeTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Eblocoinicializacao.teste.AnimeTeste01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Eblocoinicializacao.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.FuncionarioTeste01" />
+    <configuration name="CarroTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.CarroTeste01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTeste01" />
+        <item itemvalue="Application.AnimeTeste01" />
         <item itemvalue="Application.academy.devdojo.maratonjava.javacore.Dconstrutores.teste.AnimeTest01" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.PessoaTest01" />
-        <item itemvalue="Application.FuncionarioTeste01" />
-        <item itemvalue="Application.CalculadoraTeste04" />
       </list>
     </recent_temporary>
   </component>
