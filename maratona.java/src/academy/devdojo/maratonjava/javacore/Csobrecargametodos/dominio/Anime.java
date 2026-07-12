@@ -1,4 +1,4 @@
-package academy.devdojo.maratonjava.javacore.Csobrecargametodos.Dominio;
+package academy.devdojo.maratonjava.javacore.Csobrecargametodos.dominio;
 
 public class Anime {
     private String nome;

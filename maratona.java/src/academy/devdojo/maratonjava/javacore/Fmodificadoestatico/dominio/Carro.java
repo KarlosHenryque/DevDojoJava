@@ -1,4 +1,4 @@
-package academy.devdojo.maratonjava.javacore.Fmodificadoestatico.domain;
+package academy.devdojo.maratonjava.javacore.Fmodificadoestatico.dominio;
 
 public class Carro {
     private String nome;
