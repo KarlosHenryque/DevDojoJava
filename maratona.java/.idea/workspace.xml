@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/AssociacaoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/JogadorTeste03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/LeituraTeclado01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/TreinadorTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Local.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/dominio/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/teste/HerancaTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Seminario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Seminario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +62,7 @@
     "Application.EstudanteTest02.executor": "Run",
     "Application.EstudanteTest03.executor": "Run",
     "Application.FuncionarioTeste01.executor": "Run",
+    "Application.HerancaTeste01.executor": "Run",
     "Application.JogadorTeste01.executor": "Run",
     "Application.JogadorTeste02.executor": "Run",
     "Application.JogadorTeste03.executor": "Run",
@@ -131,7 +128,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AssociacaoTeste">
+  <component name="RunManager" selected="Application.HerancaTeste01">
     <configuration name="AssociacaoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.AssociacaoTeste" />
       <module name="maratona.java" />
@@ -145,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscolaTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.EscolaTeste01" />
+    <configuration name="HerancaTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Hheranca.teste.HerancaTeste01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Hheranca.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HerancaTeste01" />
         <item itemvalue="Application.AssociacaoTeste" />
         <item itemvalue="Application.TreinadorTeste02" />
         <item itemvalue="Application.LeituraTeclado01" />
         <item itemvalue="Application.JogadorTeste03" />
-        <item itemvalue="Application.EscolaTeste01" />
       </list>
     </recent_temporary>
   </component>
