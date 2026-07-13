@@ -5,26 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/teste/AnimeTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/EscolaTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/JogadorTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/JogadorTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/TreinadorTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Treinador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/AssociacaoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/JogadorTeste03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/LeituraTeclado01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/Teste/TreinadorTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Seminario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Csobrecargametodos/Dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Csobrecargametodos/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Csobrecargametodos/teste/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Csobrecargametodos/teste/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/Dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/teste/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Dconstrutores/teste/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Eblocoinicializacao/domain/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Eblocoinicializacao/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Eblocoinicializacao/teste/AnimeTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Eblocoinicializacao/teste/AnimeTeste01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/domain/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/teste/CarroTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Fmodificadoestatico/teste/CarroTeste01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +44,7 @@
   "keyToString": {
     "Application.AnimeTest01.executor": "Run",
     "Application.AnimeTeste01.executor": "Run",
+    "Application.AssociacaoTeste.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
@@ -77,10 +68,13 @@
     "Application.FuncionarioTeste01.executor": "Run",
     "Application.JogadorTeste01.executor": "Run",
     "Application.JogadorTeste02.executor": "Run",
+    "Application.JogadorTeste03.executor": "Run",
+    "Application.LeituraTeclado01.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.TreinadorTeste01.executor": "Run",
+    "Application.TreinadorTeste02.executor": "Run",
     "Application.academy.devdojo.maratonjava.javacore.Dconstrutores.teste.AnimeTest01.executor": "Run",
     "Application.academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.AnimeTeste01.executor": "Run",
     "Application.aula05EstruturasCondicionais.executor": "Run",
@@ -137,7 +131,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EscolaTeste01">
+  <component name="RunManager" selected="Application.AssociacaoTeste">
+    <configuration name="AssociacaoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.AssociacaoTeste" />
+      <module name="maratona.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EscolaTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.EscolaTeste01" />
       <module name="maratona.java" />
@@ -151,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogadorTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.JogadorTeste01" />
+    <configuration name="JogadorTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.JogadorTeste03" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
@@ -164,8 +171,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogadorTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.JogadorTeste02" />
+    <configuration name="LeituraTeclado01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.LeituraTeclado01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
@@ -177,25 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreinadorTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.TreinadorTeste01" />
+    <configuration name="TreinadorTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.TreinadorTeste02" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Gassociacao.Teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.AnimeTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.AnimeTeste01" />
-      <module name="maratona.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AssociacaoTeste" />
+        <item itemvalue="Application.TreinadorTeste02" />
+        <item itemvalue="Application.LeituraTeclado01" />
+        <item itemvalue="Application.JogadorTeste03" />
         <item itemvalue="Application.EscolaTeste01" />
-        <item itemvalue="Application.JogadorTeste02" />
-        <item itemvalue="Application.TreinadorTeste01" />
-        <item itemvalue="Application.JogadorTeste01" />
-        <item itemvalue="Application.academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.AnimeTeste01" />
       </list>
     </recent_temporary>
   </component>
