@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/teste/HerancaTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Isobreescrita/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Isobreescrita/teste/AnimeTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/JmodificadorFinal/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/JmodificadorFinal/dominio/Comprador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/JmodificadorFinal/dominio/Ferrari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/dominio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/teste/HerancaTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Hheranca/teste/HerancaTeste01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/JmodificadorFinal/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/JmodificadorFinal/dominio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/JmodificadorFinal/teste/CarroTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/JmodificadorFinal/teste/CarroTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,80 +35,80 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnimeTest01.executor": "Run",
-    "Application.AnimeTeste01.executor": "Run",
-    "Application.AssociacaoTeste.executor": "Run",
-    "Application.Aula02TiposPrimitivos.executor": "Run",
-    "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
-    "Application.Aula04Operadores.executor": "Run",
-    "Application.Aula06EstruturasDeRepedicao05.executor": "Debug",
-    "Application.Aula07Arrays01.executor": "Run",
-    "Application.Aula07Arrays02.executor": "Run",
-    "Application.Aula07Arrays03.executor": "Run",
-    "Application.Aula08ArraysMuldimensionais01.executor": "Run",
-    "Application.Aula08ArraysMuldimensionais02.executor": "Run",
-    "Application.CalculadoraTest04.executor": "Run",
-    "Application.CalculadoraTeste01.executor": "Run",
-    "Application.CalculadoraTeste02.executor": "Run",
-    "Application.CalculadoraTeste03.executor": "Run",
-    "Application.CalculadoraTeste04.executor": "Run",
-    "Application.Carro01.executor": "Run",
-    "Application.CarroTeste01.executor": "Run",
-    "Application.EscolaTeste01.executor": "Run",
-    "Application.EstudanteTest01.executor": "Run",
-    "Application.EstudanteTest02.executor": "Run",
-    "Application.EstudanteTest03.executor": "Run",
-    "Application.FuncionarioTeste01.executor": "Run",
-    "Application.HerancaTeste01.executor": "Run",
-    "Application.HerancaTeste02.executor": "Run",
-    "Application.JogadorTeste01.executor": "Run",
-    "Application.JogadorTeste02.executor": "Run",
-    "Application.JogadorTeste03.executor": "Run",
-    "Application.LeituraTeclado01.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.OlaDevDojo.executor": "Run",
-    "Application.PessoaTest01.executor": "Run",
-    "Application.TreinadorTeste01.executor": "Run",
-    "Application.TreinadorTeste02.executor": "Run",
-    "Application.academy.devdojo.maratonjava.javacore.Dconstrutores.teste.AnimeTest01.executor": "Run",
-    "Application.academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.AnimeTeste01.executor": "Run",
-    "Application.aula05EstruturasCondicionais.executor": "Run",
-    "Application.aula05EstruturasCondicionais02.executor": "Run",
-    "Application.aula05EstruturasCondicionais03.executor": "Run",
-    "Application.aula05EstruturasCondicionais05.executor": "Run",
-    "Application.aula05EstruturasCondicionais06.executor": "Run",
-    "Application.aula05Exercicio.executor": "Run",
-    "Application.aula06EstruturasDeRepedicao01.executor": "Run",
-    "Application.aula06EstruturasDeRepedicao02.executor": "Run",
-    "Application.aula06EstruturasDeRepedicao03.executor": "Run",
-    "Application.aula06EstruturasDeRepedicao04.executor": "Run",
-    "Application.aula06EstruturasDeRepedicao05.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Herança",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Karlos Henryque/OneDrive/Documents/Cursos/Curso_Java/maratona.java/src/academy/devdojo/maratonjava/javacore/Dconstrutores",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.com.intellij.database.sql.common.impl.editor.SqlColorSettingsPage",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimeTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssociacaoTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula02TiposPrimitivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula03TiposPrimitivosExercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula04Operadores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepedicao05.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula07Arrays01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07Arrays02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07Arrays03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula08ArraysMuldimensionais01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula08ArraysMuldimensionais02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTeste02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTeste03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTeste04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Carro01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarroTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EscolaTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HerancaTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HerancaTeste02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTeste02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTeste03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeituraTeclado01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OlaDevDojo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreinadorTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreinadorTeste02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.academy.devdojo.maratonjava.javacore.Dconstrutores.teste.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.academy.devdojo.maratonjava.javacore.Fmodificadoestatico.teste.AnimeTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula05EstruturasCondicionais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula05EstruturasCondicionais02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula05EstruturasCondicionais03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula05EstruturasCondicionais05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula05EstruturasCondicionais06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula05Exercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula06EstruturasDeRepedicao01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula06EstruturasDeRepedicao02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula06EstruturasDeRepedicao03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula06EstruturasDeRepedicao04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aula06EstruturasDeRepedicao05.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Herança&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Karlos Henryque/OneDrive/Documents/Cursos/Curso_Java/maratona.java/src/academy/devdojo/maratonjava/javacore/Dconstrutores&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.com.intellij.database.sql.common.impl.editor.SqlColorSettingsPage&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Karlos Henryque\OneDrive\Documents\Cursos\Curso_Java\maratona.java\src\academy\devdojo\maratonjava\javacore\Dconstrutores" />
