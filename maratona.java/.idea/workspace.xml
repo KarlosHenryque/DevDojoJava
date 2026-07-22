@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/Teste/ProdutoTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Taxavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/Teste/ProdutoTeste02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Tomate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +74,7 @@
     "Application.OlaDevDojo.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.ProdutoTeste01.executor": "Run",
+    "Application.ProdutoTeste02.executor": "Run",
     "Application.TreinadorTeste01.executor": "Run",
     "Application.TreinadorTeste02.executor": "Run",
     "Application.VeiculoTeste.executor": "Run",
@@ -101,7 +98,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Interface",
+    "git-widget-placeholder": "Polimorfismo",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -138,7 +135,7 @@
       <recent name="academy.devdojo.maratonjava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProdutoTeste01">
+  <component name="RunManager" selected="Application.ProdutoTeste02">
     <configuration name="DataLoaderteste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Minterfaces.teste.DataLoaderteste01" />
       <module name="maratona.java" />
@@ -165,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Lclassesabstratas.teste.FuncionarioTeste01" />
+    <configuration name="ProdutoTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.ProdutoTeste01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Lclassesabstratas.teste.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.ProdutoTeste01" />
+    <configuration name="ProdutoTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.ProdutoTeste02" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
@@ -206,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProdutoTeste02" />
         <item itemvalue="Application.ProdutoTeste01" />
         <item itemvalue="Application.DataLoaderteste01" />
         <item itemvalue="Application.VeiculoTeste" />
         <item itemvalue="Application.FuncionarioTeste" />
-        <item itemvalue="Application.FuncionarioTeste01" />
       </list>
     </recent_temporary>
   </component>
