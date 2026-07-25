@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8cf79-ac20-459c-b1fa-369ef2a66a4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/Teste/ProdutoTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/Teste/ProdutoTeste03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/repositorio/Repositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/servico/RepositorioArquivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/servico/RepositorioBancoDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/servico/RepositorioMemoria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Tomate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/Teste/ProdutoTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/Teste/ProdutoTeste01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonjava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +80,7 @@
     "Application.PessoaTest01.executor": "Run",
     "Application.ProdutoTeste01.executor": "Run",
     "Application.ProdutoTeste02.executor": "Run",
+    "Application.ProdutoTeste03.executor": "Run",
     "Application.TreinadorTeste01.executor": "Run",
     "Application.TreinadorTeste02.executor": "Run",
     "Application.VeiculoTeste.executor": "Run",
@@ -128,33 +134,20 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonjava.javacore.Npolimorfismo.servico" />
+      <recent name="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste" />
       <recent name="academy.devdojo.maratonjava.exercicios.execicio02.dominio" />
       <recent name="academy.devdojo.maratonjava.javacore.Fmodificadoestatico.domain" />
       <recent name="academy.devdojo.maratonjava.javacore.Dconstrutores.Dominio" />
-      <recent name="academy.devdojo.maratonjava.javacore.Bintroducaometodos.teste" />
-      <recent name="academy.devdojo.maratonjava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProdutoTeste02">
+  <component name="RunManager" selected="Application.RepositorioTeste">
     <configuration name="DataLoaderteste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Minterfaces.teste.DataLoaderteste01" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Minterfaces.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FuncionarioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.exercicios.execicio01.teste.FuncionarioTeste" />
-      <module name="maratona.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.exercicios.execicio01.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +181,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeiculoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.exercicios.execicio02.teste.VeiculoTeste" />
+    <configuration name="ProdutoTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.ProdutoTeste03" />
       <module name="maratona.java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonjava.exercicios.execicio02.teste.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositorioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.RepositorioTeste" />
+      <module name="maratona.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonjava.javacore.Npolimorfismo.Teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProdutoTeste02" />
+        <item itemvalue="Application.RepositorioTeste" />
+        <item itemvalue="Application.ProdutoTeste03" />
         <item itemvalue="Application.ProdutoTeste01" />
+        <item itemvalue="Application.ProdutoTeste02" />
         <item itemvalue="Application.DataLoaderteste01" />
-        <item itemvalue="Application.VeiculoTeste" />
-        <item itemvalue="Application.FuncionarioTeste" />
       </list>
     </recent_temporary>
   </component>

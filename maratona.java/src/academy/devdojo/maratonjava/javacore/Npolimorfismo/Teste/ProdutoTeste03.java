@@ -5,12 +5,16 @@ import academy.devdojo.maratonjava.javacore.Npolimorfismo.dominio.Produto;
 import academy.devdojo.maratonjava.javacore.Npolimorfismo.dominio.Tomate;
 import academy.devdojo.maratonjava.javacore.Npolimorfismo.servico.CalculadoraImposto;
 
-public class ProdutoTeste01 {
+public class ProdutoTeste03 {
     public static void main(String[] args) {
-        Produto computador = new Computador("NUC10I7", 11.000);
-        Produto tomate = new Tomate("Tomate cereja", 10);
+        Produto produto = new Computador("Ryzen 9", 3000);
 
-        CalculadoraImposto.calcularImposto(computador);
+        System.out.println("----------------------------------");
+
+        Tomate tomate = new Tomate("Americano", 3);
+        tomate.setDataValidade("11/12/2021");
+
         CalculadoraImposto.calcularImposto(tomate);
+
     }
 }
